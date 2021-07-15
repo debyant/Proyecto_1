@@ -1,0 +1,16 @@
+C:\Users\damorgam\Programa1\Etapa2\bin\Debug\net5.0\Etapa2.exe
+C:\Users\damorgam\Programa1\Etapa2\bin\Debug\net5.0\Etapa2.deps.json
+C:\Users\damorgam\Programa1\Etapa2\bin\Debug\net5.0\Etapa2.runtimeconfig.json
+C:\Users\damorgam\Programa1\Etapa2\bin\Debug\net5.0\Etapa2.runtimeconfig.dev.json
+C:\Users\damorgam\Programa1\Etapa2\bin\Debug\net5.0\Etapa2.dll
+C:\Users\damorgam\Programa1\Etapa2\bin\Debug\net5.0\ref\Etapa2.dll
+C:\Users\damorgam\Programa1\Etapa2\bin\Debug\net5.0\Etapa2.pdb
+C:\Users\damorgam\Programa1\Etapa2\obj\Debug\net5.0\Etapa2.csproj.AssemblyReference.cache
+C:\Users\damorgam\Programa1\Etapa2\obj\Debug\net5.0\Etapa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damorgam\Programa1\Etapa2\obj\Debug\net5.0\Etapa2.AssemblyInfoInputs.cache
+C:\Users\damorgam\Programa1\Etapa2\obj\Debug\net5.0\Etapa2.AssemblyInfo.cs
+C:\Users\damorgam\Programa1\Etapa2\obj\Debug\net5.0\Etapa2.csproj.CoreCompileInputs.cache
+C:\Users\damorgam\Programa1\Etapa2\obj\Debug\net5.0\Etapa2.dll
+C:\Users\damorgam\Programa1\Etapa2\obj\Debug\net5.0\ref\Etapa2.dll
+C:\Users\damorgam\Programa1\Etapa2\obj\Debug\net5.0\Etapa2.pdb
+C:\Users\damorgam\Programa1\Etapa2\obj\Debug\net5.0\Etapa2.genruntimeconfig.cache
